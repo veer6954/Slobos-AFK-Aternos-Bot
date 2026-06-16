@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Veerisop1.aternos.me:34799",
+    "port": 34799,
     "version": "",
     "try-creative": false
   },
